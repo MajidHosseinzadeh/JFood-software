@@ -14,12 +14,11 @@ There are some sections in this part. Users can select one of the categories at 
 but while users don't log in to the app they cant add foods to their cart and after logging in they can see entered information in the top right panel. At the most left bar, there are some buttons to traverse between other pages like favorite page, category page, etc.   
     
 
-![Category Page Image](https://github.com/TheLotonegro/JFood-Software/blob/master/Preview/CategoryPage.png)   
+[![Category-Page.png](https://i.postimg.cc/qMPrtzfJ/Category-Page.png)](https://postimg.cc/HV9RRWsR)
 
 On the category page, there is a complete list of foods. After logging in users can add food to their cart and also to their favorite foods too.  
 
-![SignUp Page Image](https://github.com/TheLotonegro/JFood-Software/blob/master/Preview/SignUpPage.png)   
+[![Sign-Up-Page.png](https://i.postimg.cc/65vJNt8D/Sign-Up-Page.png)](https://postimg.cc/tYpm30t5)  
    
 In the login section, new users can create a new account by entering their information. On the sign-in page, users with an existing account should enter their username and password to access to cart and other parts of the app.   
-
-![SignIn Page Image](https://github.com/TheLotonegro/JFood-Software/blob/master/Preview/SignInPage.png)  
+[![Sign-In-Page.png](https://i.postimg.cc/MKV6mymM/Sign-In-Page.png)](https://postimg.cc/rKy28RbM)
