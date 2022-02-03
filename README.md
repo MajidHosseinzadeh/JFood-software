@@ -22,3 +22,24 @@ On the category page, there is a complete list of foods. After logging in users 
    
 In the login section, new users can create a new account by entering their information. On the sign-in page, users with an existing account should enter their username and password to access to cart and other parts of the app.   
 [![Sign-In-Page.png](https://i.postimg.cc/MKV6mymM/Sign-In-Page.png)](https://postimg.cc/rKy28RbM)
+## Admin Page
+[![Admin-Page.png](https://i.postimg.cc/J7TC4v5H/Admin-Page.png)](https://postimg.cc/MXjF9s4z)   
+  
+On this page admin of the app can control users and orders. if you want to try the admin page you can enter the page from the sign-in part.
+- Admin Username: JFood
+- Admin Password: 12345678   
+
+At the center of the page, you can see an area. In this area, you can do some tasks with specific commands. For example with writing "list" you can see a list of users they created an account in the app and also admin can delete users too.  
+
+
+## Seller Page  
+[![Seller-Page.png](https://i.postimg.cc/tCYQ1kBS/Seller-Page.png)](https://postimg.cc/cry52Ryw)     
+
+On this page, the seller can control the number of orders, clients, and total income. If you want you can log in as the seller in the app.
+- Seller Username: SELLER
+- Seller Password: 12345678    
+
+## Conclusion  
+
+Thanks for reading. As I said this was our first project and we are at the first point of our journey. Wait for more projects.    
+Hope you enjoyed =)
