@@ -42,4 +42,4 @@ On this page, the seller can control the number of orders, clients, and total in
 ## Conclusion  
 
 Thanks for reading. As I said this was our first project and we are at the first point of our journey. Wait for more projects.    
-Hope you enjoyed =)
+Hope you enjoyed  =)
