@@ -36,8 +36,8 @@ At the center of the page, you can see an area. In this area, you can do some ta
 [![Seller-Page.png](https://i.postimg.cc/tCYQ1kBS/Seller-Page.png)](https://postimg.cc/cry52Ryw)     
 
 On this page, the seller can control the number of orders, clients, and total income. If you want you can log in as the seller in the app.
-- Seller Username : SELLER
-- Seller Password : 12345678    
+- Seller Username: SELLER
+- Seller Password: 12345678    
 
 ## Conclusion  
 
